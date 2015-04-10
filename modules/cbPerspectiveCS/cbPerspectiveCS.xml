@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updatesChangeLog>
+<changeSet>
+	<author>joebordes</author>
+	<description>cbPerspectiveCS test1</description>
+	<filename>modules/cbPerspectiveCS/changeSets/cmp1.php</filename>
+	<classname>cmp1</classname>
+	<systemupdate>true</systemupdate>
+</changeSet>
+<changeSet>
+	<author>joebordes</author>
+	<description>cbPerspectiveCS test2</description>
+	<filename>modules/cbPerspectiveCS/changeSets/cmp2.php</filename>
+	<classname>cmp2</classname>
+	<systemupdate>true</systemupdate>
+</changeSet>
+</updatesChangeLog>
